@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("Hello,GitHub!");
         System.out.println("Hello,GitEE!");
         System.out.println("Hello,Maven");
+        System.out.println("master test");
     }
 
 }
